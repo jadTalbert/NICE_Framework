@@ -3,17 +3,17 @@
 
 #### This is a guide, so that you formally understand how your class is designed and configured. You should use this as a reference when working on your labs throughout the semester.
 
-| Code    | Job Title                                             |                                                                                                                 |
-| ------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| T-001  | Build logic skills by implementing flow charting.
-| T-002 | Show a basic use of hardware & software working together in a practical environment. How a computer uses memory and storage devices and shows a basic understanding of ACII,binary and base-10 data.
-|T-003| Understanding how a program works. This includes, mathematical operators, logical operators(e.g. AND, OR etc.) and concatenation. Determining the equality between two values and understanding variable assignments in a programming language.
-|T-004| Using Github.com and how a distributed source code repository works. Including pull/push/commit actions for saving and retreving changes to source code and how to collaborate with a development team. Using Github in an IDE and via a Web browser.
-|T-005| Using built-in functions to accomplish programming tasks and build reusable code. This includes writing and calling user-defined functions and returning values for futher processing. Calling nested functions and passing arguments to functions to ensure you build reusable code to simplify processes. 
-|T-006| Using formatting techniques to generate clean code and clean output during code execution. This includes using the print() function, f-strings and other techniques.
-|T-007| Using command line interfaces(CLI) to naviagte through directory structures and executing code stored in specific paths. Capture and store user input for further use.
-|T-008| Understanding standard and metric units and how to display them in program related outputs.
-|T-009| Implement conditional logic constructs such as if-else statements to determine correct/incorrect logical scenarios. Use boolean logic to determine if a scenario is true or false.
+| Code    | Job                  Title                                             |                                                                                                                 |       
+|         ------- |       ----------------------------------------------------- |             ----------------------------------------------------- |
+| T-01  | Build logic skills by implementing flow charting.
+| T-02 | Show a basic use of hardware & software working together in a practical environment. How a computer uses memory and storage devices and shows a basic understanding of ACII,binary and base-10 data.
+|T-03| Understanding how a program works. This includes, mathematical operators, logical operators(e.g. AND, OR etc.) and concatenation. Determining the equality between two values and understanding variable assignments in a programming language.
+|T-04| Using Github.com and how a distributed source code repository works. Including pull/push/commit actions for saving and retreving changes to source code and how to collaborate with a development team. Using Github in an IDE and via a Web browser.
+|T-05| Using built-in functions to accomplish programming tasks and build reusable code. This includes writing and calling user-defined functions and returning values for futher processing. Calling nested functions and passing arguments to functions to ensure you build reusable code to simplify processes. 
+|T-06| Using formatting techniques to generate clean code and clean output during code execution. This includes using the print() function, f-strings and other techniques.
+|T-07| Using command line interfaces(CLI) to naviagte through directory structures and executing code stored in specific paths. Capture and store user input for further use.
+|T-08| Understanding standard and metric units and how to display them in program related outputs.
+|T-09| Implement conditional logic constructs such as if-else statements to determine correct/incorrect logical scenarios. Use boolean logic to determine if a scenario is true or false.
 |T-10| Using loops in a programming language. This can include for-loops,nested for-loops, for-in loops and while-loops. Using accumulators to control loops and using them in objects such as arrays and dictionaries. Using loops to process string data and display results.
 |T-11| Collaboration among peers. Understanding communication and different opinons in a technical environment. Learning to express your thoughts publicly and diplomatically. Assist others when they have questions and learn to articulate your ideas when communicating with others.
 |T-12| Implement business logic to solve problems and reduce mistakes made by humans.
