@@ -5,6 +5,6 @@
 
 | Code    | Job Title                                             | Description                                                                                                                |
 | ------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| DEV-001  | Junior Python Developer | Builds foundational scripts,flow charts, implements basic programmatic logic, processes file inputs, and creates structured functions. Explains in detail to their team and team lead how code works. May use AI as tool to assist in troubleshooting under guidance from their team lead.
-| SA-001 | Junior Python Security Analyst         | Reviews code for vulnerabilities and provides feedback to the developers and the team responsible for fixing the security issues.|
-| QA-001 | Quality Control Analyst         | Reviews code for accuracy and provides feedback to the developers and the team responsible for fixing any code defects.|
+| DEV-01  | Junior Python Developer | Builds foundational scripts,flow charts, implements basic programmatic logic, processes file inputs, and creates structured functions. Explains in detail to their team and team lead how code works. May use AI as tool to assist in troubleshooting under guidance from their team lead.
+| SA-01 | Junior Python Security Analyst         | Reviews code for vulnerabilities and provides feedback to the developers and the team responsible for fixing the security issues.|
+| QA-01 | Quality Control Analyst         | Reviews code for accuracy and provides feedback to the developers and the team responsible for fixing any code defects.|

@@ -3,7 +3,7 @@
 
 #### This is a guide, so that you formally understand how your class is designed and configured. You should use this as a reference when working on your labs throughout the semester.
 
-| Code    | Job                  Title                                             |                                                                                                                 |       
+| Code    | Description                                                               |                                                                                                                 |       
 |         ------- |       ----------------------------------------------------- |             ----------------------------------------------------- |
 | T-01  | Build logic skills by implementing flow charting.
 | T-02 | Show a basic use of hardware & software working together in a practical environment. How a computer uses memory and storage devices and shows a basic understanding of ACII,binary and base-10 data.
@@ -20,8 +20,10 @@
 |T-13| Using and implementing lists in a programming language. Using indicies to refernce specific values in a list.
 |T-13| Using and implementing dictionaries in a programming language. Using key-value pairs to read dictionary keys to retreive values.
 |T-14| Implement basic search algorithms to search through files, lists, dictionaries and other objects.
-|T-15| Using correct syntax in a programming language and recognizing when there is a problem and how to fix it.
+|T-15| Using correct syntax in a programming language and recognizing when there is a problem and how to fix it(e.g. debugging programs).
 |T-16| Use generative AI as a tool(ONLY) to help you with efficiencies and redundant tasks to complete your program.
 |T-17| Implement a small project that solves a real-World business need. Disecting user requirements and business related information that you are unfamilar with and writing a program that is bug-free to solve this problem.
+|T-18| Using ethical guidance to implement a solution using Generative AI to fix a program that has a defect to improve your effeciency in debugging and troubleshooting.
+|T-19| Ingest/read, parse and programmatically analyze data in a file using a programming language. 
 
 
