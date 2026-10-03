@@ -1,5 +1,5 @@
 
-#### The knowledge categories listed below will be used in this course to guide you through the expected knowledge that you will acquire during this class. 
+#### The skill categories listed below will be used in this course to guide you through the expected skills that you will acquire after gaining knowledge and experience during this class. 
 
 #### This is a guide, so that you formally understand how your class is designed and configured. You can use this as a reference when working on your labs throughout the semester.
 
