@@ -25,7 +25,7 @@ The NICE framework organizes professional roles using a structured hierarchy:
 
 ## How We Use This Framework
 
-In this course, we adapt this exact model for **Software Development and Systems Automation**. Every topic, lab, and project in this repository is cross-referenced with standardized **TKS (Task, Knowledge, Skill)** statements.
+In this course, we adapt this exact model for **Software Development**. Every topic, lab, and project in this repository is cross-referenced with standardized **TKS (Task, Knowledge, Skill)** statements.
 
 When you complete an assignment, you aren't just getting a grade—you are building a **verifiable technical inventory** of what you can actually do on day one in an engineering environment.
 
