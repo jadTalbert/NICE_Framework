@@ -3,8 +3,9 @@
 
 #### This is a guide, so that you formally understand how your class is designed and configured. You should use this as a reference when working on your labs throughout the semester.
 
-| Code    | Description                                                               |                                                                                                                 |       
-|         ------- |       ----------------------------------------------------- |             ----------------------------------------------------- |
+
+| Code    | Description                                               |                                                                                                                |
+| ------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | T-01  | Build logic skills by implementing flow charting.
 | T-02 | Show a basic use of hardware & software working together in a practical environment. How a computer uses memory and storage devices and shows a basic understanding of ACII,binary and base-10 data.
 |T-03| Understanding how a program works. This includes, mathematical operators, logical operators(e.g. AND, OR etc.) and concatenation. Determining the equality between two values and understanding variable assignments in a programming language.
