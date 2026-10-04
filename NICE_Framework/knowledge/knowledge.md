@@ -21,6 +21,6 @@
 |K-14| Knowledge on naming conventions for programs that follow best practices.
 |K-15| Knowledge on applying programming techniques to business requirements.
 |K-16| Knowlege on capturing user-input
-|K-17| Knowledge on file handling(e.g. open/close/read/write)
-[K-18] Knowledge on error handling(e.g. run-time exceptions, try-catch)
-[K-19] Knowledge on list handling, slicing and indexing boundaries
+|K-17| Knowledge on file handling(e.g. open/close/read/write).
+|K-17| Knowledge on error handling(e.g. run-time exceptions, try-catch)
+|K-18| Knowledge on list handling, slicing and indexing boundaries
