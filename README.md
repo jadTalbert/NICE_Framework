@@ -3,9 +3,6 @@
 
 ---
 
-## Welcome to the class!
-
-This repository serves as the central hub for our course code examples, lab exercises, technical documentation, and capstone specifications.
 
 Unlike traditional coding classes where assignments might feel like isolated homework exercises, this course is structured around **real-world programming readiness**. To bridge the gap between classroom syntax and industry employment, we are adopting an architectural framework modeled after the nationally recognized **NICE Framework**.
 
