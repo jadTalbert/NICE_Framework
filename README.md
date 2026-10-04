@@ -46,9 +46,9 @@ When you complete an assignment, you aren't just getting a grade—you are build
 
 ### Target Work Roles
 The competencies taught in this course map directly into entry-level industry positions:
-1. **DEV-01: Junior Developer / Associate Software Engineer** (Core logic, modular functions, structured programs)
-2. **SA-01:  Junior Security Analyst** (reviews code for vulnerabilities and recommend redmediations)
-3. **QA-01:  Junior Quality Assurance Analyst** (reviews application code for correct business logic and rules and communicates with business owners )
+1. **DEV-1: Junior Developer / Associate Software Engineer** (Core logic, modular functions, structured programs)
+2. **SA-1:  Junior Security Analyst** (reviews code for vulnerabilities and recommend redmediations)
+3. **QA-1:  Junior Quality Assurance Analyst** (reviews application code for correct business logic and rules and communicates with business owners )
 
 
 ---
