@@ -26,5 +26,5 @@
 |T-17| Implement a small project that solves a real-World business need. Disecting user requirements and business related information that you are unfamilar with and writing a program that is bug-free to solve this problem.
 |T-18| Using ethical guidance to implement a solution using Generative AI to fix a program that has a defect to improve your effeciency in debugging and troubleshooting.
 |T-19| Ingest/read, parse and programmatically analyze data in a file using a programming language. 
-
+|T-20| Debug application faults, logic errors, and memory leaks in Python scripts using runtime debuggers using break-points and trace analysis tools.
 

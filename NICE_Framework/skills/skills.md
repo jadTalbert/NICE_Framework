@@ -16,7 +16,7 @@
 |S-09| Skill in validating user input/output to ensure accuracy.
 |S-10| Skill in applying loops in a programming language to accomplish a specific goal that meets a written requirement.
 |S-11| Skill in string parsing/slicingtion and manipulation.
-|S-12| Skill in troubleshooting and debuggin a program and identifying how to fix the problems.
+|S-12| Skill in troubleshooting and debugging a program and identifying how to fix the problems.
 |S-13| Skill in writing structured code that is easily maintainable over time.
 |S-14| Skill in best practice naming conventions for program names and compiling/executing a program using command line(CLI) tools.
 |S-15| Skill in reading and understanding a business requirements document, applying understanding of the requirements, presenting findings, asking stakeholder clarifying questions.

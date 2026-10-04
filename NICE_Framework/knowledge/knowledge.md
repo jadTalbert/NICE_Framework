@@ -16,7 +16,7 @@
 |K-09| Knowledge on data input processing and scrubbing.
 |K-10| Knowledge on different types of programming loops(e.g. for-loop, for-in,while-loop)
 |K-11| Knowledge on string parsing, manipulation and indexing
-|K-12| Knowledge on debugging a program
+|K-12| Knowledge on debugging a program using your experience and/or debugging tools.
 |K-13| Knowledge on writing structured code and commenting code based on best practices.
 |K-14| Knowledge on naming conventions for programs that follow best practices.
 |K-15| Knowledge on applying programming techniques to business requirements.
