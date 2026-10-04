@@ -3,7 +3,7 @@
 
 ---
 
-## Welcome to CSC-115
+## Welcome to the class!
 
 This repository serves as the central hub for our course code examples, lab exercises, technical documentation, and capstone specifications.
 
@@ -26,7 +26,7 @@ The NICE framework organizes professional roles using a structured hierarchy:
 
 ---
 
-## How We Use This Framework in CSC-115
+## How We Use This Framework
 
 In this course, we adapt this exact model for **Software Development and Systems Automation**. Every topic, lab, and project in this repository is cross-referenced with standardized **TKS (Task, Knowledge, Skill)** statements.
 
