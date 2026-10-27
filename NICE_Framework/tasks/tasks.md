@@ -27,4 +27,18 @@
 |T-18| Using ethical guidance to implement a solution using Generative AI to fix a program that has a defect to improve your effeciency in debugging and troubleshooting.
 |T-19| Ingest/read, parse and programmatically analyze data in a file using a programming language. 
 |T-20| Debug application faults, logic errors, and memory leaks in Python scripts using runtime debuggers using break-points and trace analysis tools.
-
+|T-1020| Determine the operational and safety impacts of cybersecurity lapses |
+|T1041| Determine impact of software configurations
+|T1069| Evaluate organizational cybersecurity policy regulatory compliance
+|T1070| Evaluate organizational cybersecurity policy alignment with organizational directives
+|T1079| Develop cybersecurity risk profiles
+|T1084| Identify anomalous network activity
+|T1091| Perform authorized penetration testing on enterprise network assets
+|T1118| Identify vulnerabilities
+|T1119| Recommend vulnerability remediation strategies
+|T1229| Maintain deployable cyber defense audit toolkits
+|T1279| Prepare audit reports
+|T1341| Perform required reviews
+|T1489| Correlate incident data
+|T1619| Perform risk and vulnerability assessments
+|T1620| Recommend cost-effective security control

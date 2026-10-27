@@ -25,3 +25,21 @@
 |S-18| Skill in reading from and writing to different types of files(e.g. .txt, .csv, .log) using a programming language.
 |S-19| Skill using nested loops in a program to generate, validate and/or render accurate information provided from a written requirement.
 |S-20| Skill using local and/or global variables in a programming language.
+|S0483| Skill in identifying software communications vulnerabilities
+|S0492| Skill in performing threat environment analysis
+|S0532| Skill in analyzing software configurations
+|S0543| Skill in scanning for vulnerabilities
+|S0544| Skill in recognizing vulnerabilities
+|S0572| Skill in detecting host- and network-based intrusions
+|S0574| Skill in developing security system controls
+|S0578| Skill in evaluating security designs
+|S0588| Skill in performing threat modeling
+|S0591| Skill in performing social engineering
+|S0597| Skill in writing code in a currently supported programming language
+|S0641| Skill in reviewing logs
+|S0642| Skill in identifying evidence of past intrusions
+|S0656| Skill in assessing application vulnerabilities
+|S0675| Skill in optimizing system performance
+|S0686| Skill in performing risk assessments
+|S0688| Skill in performing network data analysis
+|S0804| Skill in assessing an organization's threat environment
